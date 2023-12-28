@@ -87,7 +87,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #f4a678;
+    color: #4d2e07;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
@@ -174,8 +174,8 @@ button {
 .btn-style2 {
     padding: 17px 33px 15px 33px;
     color: #fff;
-    background-color: #232323;
-    border: 1px solid #232323;
+    background-color: #b8906a;
+    border: 1px solid #b8906a;
     font-size: 14px;
     letter-spacing: 1px;
     line-height: 1;
@@ -189,16 +189,16 @@ button {
 }
 
 .btn-style2:hover {
-    background-color: #f4a678;
-    border: 1px solid #f4a678;
+    background-color: #4d2e07;
+    border: 1px solid #4d2e07;
     color: #fff;
 }
 
 .btn-style1 {
     padding: 15px 20px;
     color: #fff;
-    background-color: #f4a678;
-    border: 1px solid #f4a678;
+    background-color: #4d2e07;
+    border: 1px solid #4d2e07;
     font-size: 14px;
     letter-spacing: 1px;
     line-height: 1;
@@ -211,8 +211,8 @@ button {
 }
 
 .btn-style1:hover {
-    background-color: #232323;
-    border: 1px solid #232323;
+    background-color: #b8906a;
+    border: 1px solid #b8906a;
     color: #fff;
 }
 
@@ -235,8 +235,8 @@ button {
 
 .btn-style:hover {
     color: #fff;
-    background-color: #f4a678;
-    border: 2px solid #f4a678;
+    background-color: #4d2e07;
+    border: 2px solid #4d2e07;
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
 }
@@ -372,7 +372,7 @@ button {
 }
 
 .landing-header .land-header nav ul.nav li:hover a {
-    color: #f4a678;
+    color: #4d2e07;
 }
 
 @media (max-width: 1199px) {
@@ -581,8 +581,8 @@ button {
 }
 
 .landing-text h2.land-main span {
-    color: #f4a678;
-    border-bottom: 2px solid #f4a678;
+    color: #4d2e07;
+    border-bottom: 2px solid #4d2e07;
 }
 
 .landing-text h2 span.replace {
@@ -828,7 +828,7 @@ button {
 }
 
 .land-index ul li .land-demo .land-template a.layout-url::before {
-    background-color: #232323;
+    background-color: #b8906a;
     content: "";
     position: absolute;
     top: 0px;
@@ -865,11 +865,11 @@ button {
 }
 
 .flag.box {
-    background-color: #f4a678;
+    background-color: #4d2e07;
 }
 
 .flag.rtl {
-    background-color: #f4a678;
+    background-color: #4d2e07;
 }
 
 .flag.coming {
@@ -1344,7 +1344,7 @@ button {
 }
 
 .landing-header .land-header nav ul.nav li button:hover {
-    color: #f4a678;
+    color: #4d2e07;
 }
 
 .section-title h2 span:last-child {
@@ -1362,5 +1362,5 @@ button {
 }
 
 .landing-header .land-header .mainlogo a img {
-    max-width: 50%;
+    max-width: 100%;
 }
